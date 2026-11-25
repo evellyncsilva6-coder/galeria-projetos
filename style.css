@@ -1,0 +1,38 @@
+body {
+    color: white;
+    background-color: rgb(143, 95, 47);
+    flex-direction: row;
+    
+}
+
+#pintura1 {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    width: 445px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    box-shadow: 4px #10101033;
+}
+#pintura2 {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    width: 445px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    box-shadow: 4px #10101033;
+}
+
+#duas {
+    display: flex;
+    gap: 50px;
+}
