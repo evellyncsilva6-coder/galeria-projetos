@@ -2,7 +2,10 @@ body {
     color: white;
     background-color: rgb(223, 186, 82);
     flex-direction: row;
-    
+    align-items: center;
+    text-align: center;
+    display: grid;
+    place-items: center;
 }
 
 #pintura1 {
